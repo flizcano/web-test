@@ -1,5 +1,5 @@
 # web-test
 Repositorio de prueba
 
-## descripción
-Este es un repo del curso github
+## Descripción
+Curso de fundamentos en git y github
